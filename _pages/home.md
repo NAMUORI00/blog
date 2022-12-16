@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/about/logo.jpg
   actions:
     - label: "<i class='fas fa-link'></i> 작성글 보기"
-      url: "https://blog.namuori.net/lists/"
+      url: "https://blog.namuori.net/lists"
 excerpt: >
   NAMUORI의 블로그 입니다.<br />
   <small><a href="https://namuori.net/">NAMUORI 간단 소개글</a></small> 
