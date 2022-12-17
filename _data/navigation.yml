@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "카테고리"
+    url: https://namuori00.github.io/categories
   - title: "포스트"
     url: https://namuori00.github.io/lists  
   - title: "소개"
